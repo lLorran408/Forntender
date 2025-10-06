@@ -1,0 +1,36 @@
+#footer-nav {
+    display: flex;
+    justify-content: space-between;
+    border-top:1px dotted gray ;
+    margin-top: 1em;
+    padding-top: 1rem;
+}
+#footer-nav ul {
+    list-style: none;
+}
+#footer-nav ul {
+    color: rgb(red, green, blue);
+    padding-left: 1em;
+}
+/* Quando passar o cursor sobre o link */
+#footer-nav ul a:hover {
+    color: orange;
+}
+/* Para larguras de 576px  ou mais */
+@media screen and (min-width: 576px) {
+
+    /* Ajusta a posição dos menus */
+    #footer-nav {
+        justify-content: space-around;
+    }
+}
+body {
+    background-image:  url(../img/cpp.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main {
+    background-color: rgba(255, 255, 255, 0.596);
+}

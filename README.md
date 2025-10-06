@@ -1,2 +1,2 @@
 # Forntender
-frront end usando bootstrap 
+front end usando bootstrap 
