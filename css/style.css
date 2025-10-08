@@ -3,14 +3,10 @@
     justify-content: space-between;
     border-top:1px dotted gray ;
     margin-top: 1em;
-    padding-top: 1rem;
+    padding-top: 1.6rem;
 }
 #footer-nav ul {
     list-style: none;
-}
-#footer-nav ul {
-    color: rgb(red, green, blue);
-    padding-left: 1em;
 }
 /* Quando passar o cursor sobre o link */
 #footer-nav ul a:hover {
