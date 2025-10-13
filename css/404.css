@@ -1,7 +1,10 @@
 body { 
-     background-image: url('../img/gato.png');
+     background-image: url('../img/404\ 2.png');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
+}
+main {
+    background-color: rgba(218, 183, 183, 0.8);
 }
